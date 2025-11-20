@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pillow
+pytesseract
+python-multipart
+regex
+httpx
+openai
+azure-ai-formrecognizer
