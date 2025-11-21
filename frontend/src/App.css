@@ -1,0 +1,18 @@
+body {
+  background: #1e1e1e;
+  font-family: Arial, sans-serif;
+}
+
+.action-btn {
+  margin-right: 15px;
+  padding: 12px 20px;
+  background: #2563eb;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.action-btn:hover {
+  background: #1d4ed8;
+}
