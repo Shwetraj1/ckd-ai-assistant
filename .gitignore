@@ -1,3 +1,4 @@
+labenv/
 venv/
 __pycache__/
 *.pyc
